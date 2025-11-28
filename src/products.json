@@ -1,0 +1,149 @@
+{
+    "top__shoes": [
+        {
+            "id": 1,
+            "name": "Tênis Redley Originals Summer",
+            "color": "Preto",
+            "price_prev": 349.90,
+            "price": 299.90,
+            "image": "./src/top_shoes_img/tenis-redley-originals-summer-preto.png",
+            "type": "Unissex",
+            "meta__description": "Tênis Redley Originals Summer Preto - Conforto e estilo para todas as ocasiões.",
+            "description": "O Tênis Redley Originals Summer é perfeito para quem busca conforto e estilo em um só produto. Com design moderno e versátil, ele combina com diversas ocasiões, desde passeios casuais até atividades ao ar livre. Fabricado com materiais de alta qualidade, oferece durabilidade e resistência. Seu solado emborrachado proporciona ótima aderência, enquanto o interior acolchoado garante conforto durante todo o dia. Disponível em várias cores, o Tênis Redley Originals Summer é a escolha ideal para quem valoriza moda e funcionalidade."
+        },
+        {
+            "id": 2,
+            "name": "Tênis Olympikus Ultraleve 130G Feminino",
+            "color": "Azul Escuro",
+            "price_prev": 349.90,
+            "price": 299.90,
+            "image": "./src/top_shoes_img/tenis-olympikus-ultraleve-130g-feminino-azul-escuro.png",
+            "type": "Feminino",
+            "meta__description": "Com apenas 130 gramas, este tênis proporciona uma sensação de liberdade aos pés, ideal para atividades diárias e exercícios leves. ",
+            "description": "O Tênis Olympikus Ultraleve 130G Feminino é a escolha perfeita para quem busca leveza e conforto em um calçado. Com apenas 130 gramas, este tênis proporciona uma sensação de liberdade aos pés, ideal para atividades diárias e exercícios leves. Seu design moderno e elegante combina com diversos estilos, enquanto a palmilha anatômica oferece suporte e conforto durante todo o dia. Fabricado com materiais de alta qualidade, o Tênis Olympikus Ultraleve 130G Feminino é durável e resistente, garantindo performance e estilo em qualquer ocasião."
+        },
+        {
+            "id": 3,
+            "name": "Tênis Dc Shoes Episo Unissex",
+            "color": "Cinza e Branco",
+            "price_prev": 299.90,
+            "price": 249.90,
+            "image": "./src/top_shoes_img/tenis-dc-shoes-episo-unissex-cinza-branco.png",
+            "type": "Unissex",
+            "meta__description": "Estilo e atitude é com a DC Shoes! Esse tênis skatista é o calçado ideal para quem ama as pistas e quer andar na estica.",
+            "description": "Estilo e atitude é com a DC Shoes! Esse tênis skatista é o calçado ideal para quem ama as pistas e quer andar na estica. Com design clássico, é confeccionado com material de extrema qualidade no cabedal e conta com solado emborrachado que oferece ótima aderência em diferentes tipos de pisos. No park, no street ou só no rolê, suba no shape e mande altas manobras com o Tênis da DC Shoes. *Para um melhor ajuste, recomendamos a compra de um tamanho maior do que o seu usual. Forma pequena."
+        }
+    ],
+    "shoes__list": [
+        {
+            "id": 1,
+            "name": "Tênis Redley Originals Summer",
+            "color": "Preto",
+            "price_prev": 399.90,
+            "price": 299.90,
+            "image": "./src/products__img/tenis-redley-originals-summer-preto.png",
+            "type": "Unissex",
+            "meta__description": "Tênis Redley Originals Summer Preto - Conforto e estilo para todas as ocasiões.",
+            "description": "O Tênis Redley Originals Summer é perfeito para quem busca conforto e estilo em um só produto. Com design moderno e versátil, ele combina com diversas ocasiões, desde passeios casuais até atividades ao ar livre. Fabricado com materiais de alta qualidade, oferece durabilidade e resistência. Seu solado emborrachado proporciona ótima aderência, enquanto o interior acolchoado garante conforto durante todo o dia. Disponível em várias cores, o Tênis Redley Originals Summer é a escolha ideal para quem valoriza moda e funcionalidade."
+        },
+        {
+            "id": 2,
+            "name": "Tênis Olympikus Ultraleve 130G Feminino",
+            "color": "Azul Escuro",
+            "price_prev": 349.90,
+            "price": 299.90,
+            "image": "./src/products__img/tenis-olympikus-ultraleve-130g-feminino-azul-escuro.png",
+            "type": "Feminino",
+            "meta__description": "Com apenas 130 gramas, este tênis proporciona uma sensação de liberdade aos pés, ideal para atividades diárias e exercícios leves. ",
+            "description": "O Tênis Olympikus Ultraleve 130G Feminino é a escolha perfeita para quem busca leveza e conforto em um calçado. Com apenas 130 gramas, este tênis proporciona uma sensação de liberdade aos pés, ideal para atividades diárias e exercícios leves. Seu design moderno e elegante combina com diversos estilos, enquanto a palmilha anatômica oferece suporte e conforto durante todo o dia. Fabricado com materiais de alta qualidade, o Tênis Olympikus Ultraleve 130G Feminino é durável e resistente, garantindo performance e estilo em qualquer ocasião."
+        },
+        {
+            "id": 3,
+            "name": "Tênis Dc Shoes Episo Unissex",
+            "color": "Cinza e Branco",
+            "price_prev": 299.90,
+            "price": 249.90,
+            "image": "./src/products__img/tenis-dc-shoes-episo-unissex-cinza-branco.png",
+            "type": "Unissex",
+            "meta__description": "Estilo e atitude é com a DC Shoes! Esse tênis skatista é o calçado ideal para quem ama as pistas e quer andar na estica.",
+            "description": "Estilo e atitude é com a DC Shoes! Esse tênis skatista é o calçado ideal para quem ama as pistas e quer andar na estica. Com design clássico, é confeccionado com material de extrema qualidade no cabedal e conta com solado emborrachado que oferece ótima aderência em diferentes tipos de pisos. No park, no street ou só no rolê, suba no shape e mande altas manobras com o Tênis da DC Shoes. *Para um melhor ajuste, recomendamos a compra de um tamanho maior do que o seu usual. Forma pequena."
+        },
+        {
+            "id": 4,
+            "name": "Tênis Couro Democrata Shift Masculino",
+            "color": "Marrom Claro e Marrom Escuro",
+            "price_prev": 549.90,
+            "price": 499.90,
+            "image": "./src/products__img/tenis-couro-democrata-shift-masculino-marrom-claro-marrom-escuro.png",
+            "type": "Masculino",
+            "meta__description": "Tênis Democrata Shift - Versatilidade e estilo em couro para o dia a dia.",
+            "description": "Design exclusivo para quem valoriza qualidade! O Tênis Democrata Shift é opção versátil para usar do dia a dia ao lazer, sempre com personalidade no estilo. Este modelo conta com cabedal de couro, que favorece a durabilidade, e cadarço elástico que facilita o calce. Tudo isso com um perfil atual e sofisticado para você caprichar nas combinações. Use com calças e bermudas jeans ou sarja para um visual mais despojado ou com calça alfaiataria, se a ideia é criar um outfit mais sóbrio e elegante. Garanta o seu!"
+        },
+        {
+            "id": 5,
+            "name": "Tênis Puma Carina Street Bdp Feminino",
+            "color": "Bege e Rosa",
+            "price_prev": 319.90,
+            "price": 279.90,
+            "image": "./src/products__img/tenis-puma-carina-street-bdp-feminino-bege-rosa.png",
+            "type": "Feminino",
+            "meta__description": "Tênis Puma Carina Street Bdp - Estilo e conforto para suas produções casuais e esportivas.",
+            "description": "Aposte em estilo! O Tênis Puma Carina Street Bdp é perfeito para acompanhar as suas produções em qualquer ocasião. Confeccionado em couro, tem solado emborrachado, palmilha macia e fechamento por cadarço ajustável. Exibe design moderno com logo da marca na lateral. Dica: combine com produções casuais ou esportivas - com short, bermuda, calça legging, calça jeans ou calça moletom. Você sempre na moda!"
+        },
+        {
+            "id": 6,
+            "name": "Tênis Lacoste Baseshot Masculino",
+            "color": "Verde escuro e Branco",
+            "price_prev": 349.90,
+            "price": 319.90,
+            "image": "./src/products__img/tenis-lacoste-baseshot-masculino-verde-escuro-branco.png",
+            "type": "Masculino",
+            "meta__description": "Com design sofisticado, esse tênis masculino traz praticidade para o uso diário.",
+            "description": "Para quem não abre mão de conforto e versatilidade, o Tênis Lacoste Baseshot Masculino é a pedida certa! Com design sofisticado, esse tênis masculino traz praticidade para o uso diário. Desenvolvido em material resistente e cabedal de camurça proporciona durabilidade e elegância, além de um ajuste confortável. Ideal para combinar com uma polo ou jeans, esse modelo casual é perfeito para compor um visual moderno e descolado. Aposte em um sportsyle refinado e confortável agora!"
+        },
+        {
+            "id": 7,
+            "name": "Tênis Everlast Forceknit 6",
+            "color": "Preto e Dourado",
+            "price_prev": 319.90,
+            "price": 279.90,
+            "image": "./src/products__img/tenis-everlast-forceknit-6-preto-dourado.png",
+            "type": "Masculino",
+            "meta__description": "Explore o máximo de proteção e estilo com o Tênis Everlast Forceknit 6! Com design moderno e cano médio.",
+            "description": "Explore o máximo de proteção e estilo com o Tênis Everlast Forceknit 6! Com design moderno e cano médio, garante suporte extra ao tornozelo durante os treinos. O cabedal knit oferece respirabilidade, leveza e ótimo ajuste ao pé. Já a entressola em EVA proporciona amortecimento macio, enquanto o solado com borracha antiderrapante favorece a tração. Ideal para treinos indoor, musculação e caminhadas. Escolha o Forceknit 6 e sinta a diferença no seu desempenho. Peça já!"
+        },
+        {
+            "id": 8,
+            "name": "Tênis Anacapri Casual Feminino",
+            "color": "Branco",
+            "price_prev": 349.90,
+            "price": 319.90,
+            "image": "./src/products__img/tenis-anacapri-casual-feminino-branco.png",
+            "type": "Feminino",
+            "meta__description": "Transforme seu estilo com o Tênis Anacapri Casual Feminino! Perfeito para mulheres que buscam versatilidade e conforto no dia a dia.",
+            "description": "Transforme seu estilo com o Tênis Anacapri Casual Feminino! Perfeito para mulheres que buscam versatilidade e conforto no dia a dia, este tênis se destaca pelo design minimalista e elegante, ideal para diversas combinações. Confeccionado com materiais leves e de alta qualidade, proporciona um toque suave e um caimento perfeito aos pés, garantindo bem-estar prolongado. A palmilha macia e o solado flexível oferecem amortecimento e aderência para cada passo, tornando-o ideal para passeios, trabalho ou momentos de lazer. Adicione um toque de sofisticação descomplicada ao guarda-roupa com este clássico atemporal da Anacapri. Invista em conforto e estilo. Adquira já e sinta a diferença!"
+        },
+        {
+            "id": 9,
+            "name": "Tênis New Balance 413V3 Masculino",
+            "color": "Preto e Branco",
+            "price_prev": 399.90,
+            "price": 349.90,
+            "image": "./src/products__img/tenis-new-balance-413V3m-masculino-preto-branco.png",
+            "type": "Masculino",
+            "meta__description": "Supere seus desafios com o Tênis New Balance 413V3 Masculino! Desenvolvido para alto desempenho.",
+            "description": "Supere seus desafios com o Tênis New Balance 413V3 Masculino! Desenvolvido para alto desempenho, este modelo combina leveza e amortecimento eficiente. A tecnologia NB Comfort Insert oferece suporte extra, enquanto a entressola em EVA absorve impactos com suavidade. O cabedal em material têxtil respirável proporciona conforto prolongado, e o solado de borracha reforçada garante tração em diferentes superfícies. Um aliado perfeito para corridas e treinos diários. Invista no seu bem-estar e adquira já o seu New Balance 413V3!"
+        },
+        {
+            "id": 10,
+            "name": "Tênis Adidas Nebzed Cloudfoam Feminino",
+            "color": "Preto e Dourado",
+            "price_prev": 319.90,
+            "price": 279.90,
+            "image": "./src/products__img/tenis-adidas-nebzed-cloudfoam-feminino-preto-dourado.png",
+            "type": "Feminino",
+            "meta__description": "Tênis Adidas Nebzed Cloudfoam Feminino - Conforto e estilo para o dia a dia com sustentabilidade.",
+            "description": "Com amortecimento Cloudfoam que proporciona leveza, conforto e estabilidade, o tênis feminino adidas Nebzed Cloudfoam é um modelo versátil para usar no trabalho, na academia e no lazer. Este modelo conta com contraforte moldado que oferece suporte para a parte de trás do pé, além de design esportivo que garante combinações estilosas. O Nebzed Cloudfoam tem cabedal de tecido produzido com no mínimo 50% de materiais reaproveitados, uma iniciativa que tem como objetivo reduzir a geração de resíduos plásticos. Garanta o seu!"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
+    width: 100%;
+    box-shadow: -3px 4px 17px 2px #00000069;
+    border-radius: 10px;
+    padding: 15px;
+    cursor: pointer;
+    transition: transform ease 0.3s;
+    position: relative;
+    background-color: var(--bg-color-1);
+
+    &:hover {
+        transform: scale(1.05, 1.05);
+    }
+
+    .card__addToCart {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        border: none;
+        background-color: var(--primary-color);
+        color: var(--text-color-1);
+        border-radius: 5px;
+        padding: 5px;
+        cursor: pointer;
+    }
+}
+
+.card__figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+        aspect-ratio: 1/1;
+        object-fit: cover;
+        width: 100%;
+    }
+
+    figcaption {
+        min-height: min(50px, 100%);
+        font-size: 1rem;
+    }
+}
+
+.card__price {
+    display: flex;
+    flex-direction: column;
+
+    .card__pricePrev {
+        color: var(--text-color-2);
+        opacity: 0.8;
+    }
+
+    .card__priceNow {
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+}
+
+.card__btnBuy {
+    padding: 7.5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: var(--primary-color);
+    color: var(--text-color-1);
+    border: none;
+}

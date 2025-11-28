@@ -1,0 +1,40 @@
+.background {
+    background-color: var(--bg-color-2);
+    background-image: url("./src/img/fabric-of-squares.png");
+}
+
+.containerCard__title {
+    font-size: min(2.5rem, 4.8vw);
+    font-weight: bold;
+    text-align: center;
+    background-color: var(--bg-color-1);
+    opacity: 0.6;
+    text-transform: uppercase;
+}
+
+.containerCard {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    width: min(1400px, 100%);
+    margin: auto;
+    gap: 15px;
+    padding: 60px 15px;
+}
+
+@media (max-width: 1200px) {
+    .containerCard {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media (max-width: 900px) {
+    .containerCard {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 680px) {
+    .containerCard {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
