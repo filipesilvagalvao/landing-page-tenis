@@ -10,7 +10,7 @@ export const GlobalStorage = ({ children }) => {
 
     async function getData() {
         try {
-            const response = await fetch("/src/products.json");
+            const response = await fetch("./src/products.json");
             const json = await response.json();
             setData(json);
         }
